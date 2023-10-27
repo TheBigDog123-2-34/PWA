@@ -1,0 +1,19 @@
+{
+    "name": "#Alan",
+    "short_name": "#LUGX",
+    "description": "Bienvenidos, aqui podras encontrar lo que estas buscando :)",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope" : "./",
+    "lang" : "es-MX",
+    "icons" : [
+        {
+            "src":"./img/control.png",
+            "sizes": "219x230",
+            "type": "image/png"
+        }      
+    
+        ]
+
+}
